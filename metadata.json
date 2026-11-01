@@ -1,0 +1,6 @@
+{
+  "name": "RusQuiz — Rus tili o'rganish va test platformasi",
+  "description": "Rus tilini oson va qiziqarli o'rganing. RusQuiz bilan grammatika, lug'at, testlar va interaktiv darslar orqali bilimingizni oshiring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
